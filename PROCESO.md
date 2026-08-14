@@ -65,11 +65,35 @@
  ### Persona asignada: **Diego Garcia**
  ________________________________________
  - **Agentes de Código y Skills**
-  - qué son
-  - ventajas
-  - desventajas
-  - 3 ejemplos de casos de uso
-  - 3 ejemplos de apps conocidas
+  - ### qué son
+  **Los agentes de código** son herramientas de inteligencia artificial capaces de ayudar a programar de forma más autónoma. Pueden analizar código, detectar errores, crear archivos, modificar proyectos y ejecutar tareas siguiendo instrucciones.
+  
+  **Las Skills** son capacidades o habilidades que se le agregan a un agente para que pueda realizar tareas específicas, por ejemplo, trabajar con Git, analizar documentos, crear código o utilizar determinadas herramientas.
+
+  - ### ventajas
+  *Automatizan tareas de programación.
+  *Permiten desarrollar más rápido.
+  *Ayudan a encontrar y corregir errores.
+  *Pueden explicar código y ayudar a aprender.
+  *Pueden utilizar diferentes herramientas para completar tareas.
+
+  - ### desventajas
+  *Pueden cometer errores o generar código incorrecto.
+  *Es necesario tener cuidado con la información y permisos que se les da.
+  *No siempre entienden correctamente lo que el programador quiere.
+  *En tareas complejas todavía necesitan supervisión humana.
+
+  - ### 3 ejemplos de casos de uso
+  *Corregir errores: analizar un proyecto y buscar posibles problemas en el código.
+  *Crear funcionalidades: generar componentes, funciones o archivos a partir de una descripción.
+  *Trabajar con Git: ayudar a crear commits, ramas, revisar cambios o preparar un Pull Request.
+
+  - ### 3 ejemplos de apps conocidas
+  *GitHub Copilot: asistente de programación que ayuda a escribir, explicar y modificar código.
+  *Cursor: editor de código con agentes de IA que pueden trabajar sobre un proyecto.
+  *Claude Code:agente de programación que puede analizar y modificar proyectos desde la terminal.
+
+  
  ### Persona asignada: **Leo Galban**
  ________________________________________
  - **Mocks**
