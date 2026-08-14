@@ -27,11 +27,33 @@
  ### Persona asignada: **Diego Garcia**
  ________________________________________
  - **Expo**
-  - qué es
-  - ventajas
-  - desventajas
-  - 3 ejemplos de casos de uso
-  - 3 ejemplos de apps conocidas
+  - ###  qué es
+  Expo es un conjunto de herramientas y servicios que facilita el desarrollo de aplicaciones móviles con React Native. Permite crear aplicaciones para Android, iOS y también web usando principalmente JavaScript/TypeScript, sin tener que configurar todo el entorno nativo desde cero.
+
+  - ###  ventajas
+  *Es fácil de instalar y comenzar a desarrollar.
+  *Permite crear aplicaciones para Android e iOS con un mismo código.
+  *Tiene muchas herramientas y APIs listas para usar, como cámara, ubicación, notificaciones, etc.
+  *Facilita probar la aplicación rápidamente mediante Expo Go.
+  *Simplifica la compilación y publicación de aplicaciones.
+
+  - ###  desventajas
+  *Puede tener limitaciones cuando se necesita acceder a funciones nativas muy específicas.
+  *Algunas funcionalidades requieren aprender herramientas propias de Expo.
+  *Las actualizaciones de Expo pueden generar problemas de compatibilidad con algunas librerías.
+  *Para ciertas funciones avanzadas puede ser necesario trabajar directamente con código nativo de Android o iOS.
+
+  - ### 3 ejemplos de casos de uso
+  *Aplicaciones educativas: apps para cursos, ejercicios o aprendizajes. 
+  *Aplicaciones de comercio: tiendas online y aplicaciones para realizar compras.
+  *Aplicaciones con ubicación: apps de mapas, delivery o seguimiento de recorridos.
+
+  - ### 3 ejemplos de apps conocidas
+  *Discord: utiliza React Native en partes importantes de sus aplicaciones móviles.
+  *Microsoft Teams: utiliza React Native para algunas experiencias móviles.
+  *Shopify: utiliza React Native en el desarrollo de sus aplicaciones móviles.
+
+
  ### Persona asignada: **Leo Galban**
  ________________________________________
  - **Spec-Driven Development (SDD)**
